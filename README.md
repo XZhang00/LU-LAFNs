@@ -1,6 +1,12 @@
 ## LU-LAFNs
 Code for COLING-2025 paper "Multilingual Knowledge Editing with Language-Agnostic Factual Neurons".
 
+<p align="center">
+    <br>
+    <img src="main-pic.jpg" width="600"/>
+    <br>
+</p>
+
 
 ### 1. Locating the language-agnostic factual neurons
 
