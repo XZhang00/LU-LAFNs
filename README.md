@@ -5,7 +5,7 @@ Code for COLING-2025 paper "Multilingual Knowledge Editing with Language-Agnosti
 ### 1. Locating the language-agnostic factual neurons
 
 First, you need to generate 30 paraphrases for each question to be edited. (In our paper, we call the Qwen2-72B-instruct API to achieve it.)
-Then we obtain the LAFNs for each model.
+Then we obtain the LAFNs for each model. You can download the LAFNs for each model from [Neurons](https://drive.google.com/file/d/1TSnbqestmeZ6vA6DGnkQO3IGIUQpmNNL/view?usp=drive_link).
 
 ```
 python Neurons/get_activations_pgs.py
