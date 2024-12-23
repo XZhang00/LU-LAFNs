@@ -3,7 +3,7 @@ Code for COLING-2025 paper "Multilingual Knowledge Editing with Language-Agnosti
 
 <p align="center">
     <br>
-    <img src="main-pic.jpg" width="600"/>
+    <img src="main-pic.jpg" width="800"/>
     <br>
 </p>
 
