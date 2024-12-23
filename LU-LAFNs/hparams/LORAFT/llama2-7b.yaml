@@ -1,0 +1,7 @@
+alg_name: "LORAFT"
+model_name: "your_path/Models/NousResearch/Llama-2-7b-hf"
+device: 0
+lora_model_name: "your_path/Lora-ft/saved-models/bizsre-llama2-lora"
+max_length: 128
+eval_bsz: 4
+

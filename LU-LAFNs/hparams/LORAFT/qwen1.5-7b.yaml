@@ -1,0 +1,7 @@
+alg_name: "LORAFT"
+model_name: "your_path/Models/Qwen/Qwen1.5-7B"
+device: 0
+lora_model_name: "your_path/Lora-ft/saved-models/bizsre-qwen1.5-lora"
+max_length: 128
+eval_bsz: 4
+
