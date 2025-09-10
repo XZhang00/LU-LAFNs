@@ -21,20 +21,20 @@ python Neurons/analysis_pgs.py
 ### 2. Updating the values of LAFNs
 
 ```
-bash Bi-ZsRE/run_sh/MKEY/bloom-en_zh.sh
-bash Bi-ZsRE/run_sh/MKEY/llama-en_zh.sh
-bash Bi-ZsRE/run_sh/MKEY/qwen-en_zh.sh
+bash LU-LAFNs/run_sh/MKEY/bloom-en_zh.sh
+bash LU-LAFNs/run_sh/MKEY/llama-en_zh.sh
+bash LU-LAFNs/run_sh/MKEY/qwen-en_zh.sh
 ```
 
 ### 3. Evaluation
 
 ```
-python Bi-ZsRE/evaluate_mke.py
-python Bi-ZsRE/evaluate_mke_mzsre.py
+python LU-LAFNs/evaluate_mke.py
+python LU-LAFNs/evaluate_mke_mzsre.py
 ```
 
 
-If you have any questions, please create an issue or email to 23111135@bjtu.edu.cn.
+If you have any questions, please create an issue or email me (23111135@bjtu.edu.cn).
 
 
 ### Acknowledgement
@@ -43,7 +43,7 @@ If you have any questions, please create an issue or email to 23111135@bjtu.edu.
 
 
 ### Citation
-If you find this work is useful, please consider cite our paper:
+If you find this work useful, please consider citing our paper:
 
 ```
 @misc{zhang2024multilingualknowledgeeditinglanguageagnostic,
