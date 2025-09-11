@@ -1,0 +1,13 @@
+alg_name: "MKEYPG"
+model_name: "your_path/Models/meta-llama/Meta-Llama-3.1-8B"
+device: 0
+layers: []
+fact_token: "subject_last"
+v_num_grad_steps: 30
+v_lr: 5e-1
+v_weight_decay: 1e-3
+clamp_norm_factor: 4
+kl_factor: 0.0625
+context_template_length_params: [[5, 10], [10, 10]]
+max_length: 256
+eval_bsz: 4

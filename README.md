@@ -21,16 +21,16 @@ python Neurons/analysis_pgs.py
 ### 2. Updating the values of LAFNs
 
 ```
-bash LU-LAFNs/run_sh/MKEY/bloom-en_zh.sh
-bash LU-LAFNs/run_sh/MKEY/llama-en_zh.sh
-bash LU-LAFNs/run_sh/MKEY/qwen-en_zh.sh
+bash Bi_ZsRE/run_sh/MKEY/bloom-en_zh.sh
+bash Bi_ZsRE/run_sh/MKEY/llama-en_zh.sh
+bash Bi_ZsRE/run_sh/MKEY/qwen-en_zh.sh
 ```
 
 ### 3. Evaluation
 
 ```
-python LU-LAFNs/evaluate_mke.py
-python LU-LAFNs/evaluate_mke_mzsre.py
+python Bi_ZsRE/evaluate_mke.py
+python Bi_ZsRE/evaluate_mke_mzsre.py
 ```
 
 
